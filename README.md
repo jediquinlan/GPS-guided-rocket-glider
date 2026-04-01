@@ -30,15 +30,17 @@ The computer that will control everything is the Raspberry Pi Zero 2W, and the s
 
 ---
 
-## Materials
+## Not Electronic Materials
 
 - Paper tube (rocket body)
 - 1/8" balsa wood (wings and fins)
 - 1/16" plywood (structural components)
+- Nosecone
+- Engines
 
 ---
 
-## Cost Breakdown
+## Elctronic Materiala and Cost Breakdown
 
 | Component | Cost |
 |---|---|
