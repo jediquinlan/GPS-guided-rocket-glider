@@ -49,7 +49,8 @@ The computer that will control everything is the Raspberry Pi Zero 2W, and the s
 | 1200 mAh LiPo battery | $9.95 |
 | PowerBoost 1000C | $19.95 |
 | Pololu U3V70F5 | $22.95 |
-| **TOTAL** | **$190.00** |
+| 2x Hitec HS-55 Micro Servo | $33.98 |
+| **TOTAL** | **$223.98** |
 
 ---
 
