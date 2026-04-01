@@ -11,6 +11,17 @@ How it Works:
   The swing wing design of the wings is inspired from the GLSDB (Ground Launch Small Diameter Bomb), which uses wing sweepback for roll and yaw stability. The rocket will likely use D, E, and F engines.
 
 Electronics:
-  The computer that will control everything is the Raspberry Pi Zero 2W, and the sensors will all be from the BerryGPS-IMU v4 from Ozzmaker. I will have 2 micro servos connected to the computer to move the control surfaces on the glider. The camera I will use is the Raspberry Pi camera Module 3, connecting to the Raspberry Pi using the dedicated cable that connects to the Raspberry Pi Zero. 
+  The computer that will control everything is the Raspberry Pi Zero 2W, and the sensors will all be from the BerryGPS-IMU v4 from Ozzmaker. I will have 2 micro servos connected to the computer to move the control surfaces on the glider. The camera I will use is the Raspberry Pi camera Module 3, connecting to the Raspberry Pi using the dedicated FPC cable that connects to the Raspberry Pi Zero. The Raspberry Pi and sensors will be powered by a 1200mah battery with a the PowerBoost 1000c from adafruit. the servos will be connected to a seperate rail using the Pololu U3V70F5 step-up voltage regulator.
 
-  
+Materials:
+  The model rocket body wil be made from paper tube, the wings and fins from 1/8" balsa wood, and the rest from 1/16" plywood.
+
+Cost Breakdown:
+  Raspberry Pi Zero 2 W with headers: $20.70
+  BerryGPS-IMU v4: $74
+  Raspberry Pi Camera Module 3: $38.50
+  Raspberry Pi Zero FPC camera cable: $3.95
+  1200 mAh LiPo battery: $9.95
+  PowerBoost 1000c: $19.95
+  Polulu U3V70F5: $22.95
+  TOTAL: $190
