@@ -50,3 +50,7 @@ The computer that will control everything is the Raspberry Pi Zero 2W, and the s
 | PowerBoost 1000C | $19.95 |
 | Pololu U3V70F5 | $22.95 |
 | **TOTAL** | **$190.00** |
+
+---
+
+![Glider Diagram](https://github.com/jediquinlan/GPS-guided-rocket-glider/blob/main/glider_darkened.jpg)
