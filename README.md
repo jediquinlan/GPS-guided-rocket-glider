@@ -8,7 +8,7 @@ I want to build a GPS guided R/G (rocket glider). A rocket glider is a model roc
 
 ## About Me
 
-I am a 7th grader at BC High in Dorchester, MA. I enjoy math, physics, model rocketry, robotics, and amateur radio. I have done FLL (First Lego League) for 5 years, and this year I am going to Greece for the world championships. I competed in the American Rocketry Challenge this year. I have my Technician license for amateur radio. I also won 3rd place for the ABMF Past Is Prologue essay contest for my age group. Outside these, I do competitive swimming for my local swim team, and I am learning how to play tennis.
+I am a 7th grader at BC High in Dorchester, MA. I enjoy math, physics, model rocketry, robotics, and amateur radio. I have done FLL (First Lego League) for 5 years, and this year I am going to Greece for the world championships. I competed in the American Rocketry Challenge this year. I have my Technician license for amateur radio. I also won 3rd place for the ABMF Past Is Prologue essay contest for my age group. Outside these, I do competitive swimming for my local swim team, and I am learning how to play tennis. I am also a Star Scout with 67 merit badges so far.
 
 ---
 
