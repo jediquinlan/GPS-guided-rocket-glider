@@ -40,7 +40,7 @@ The computer that will control everything is the Raspberry Pi Zero 2W, and the s
 
 ---
 
-## Electronic Materiala and Cost Breakdown
+## Electronic Materials and Cost Breakdown
 
 | Component | Cost |
 |---|---|
